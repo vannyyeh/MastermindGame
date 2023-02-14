@@ -7,8 +7,7 @@ The purpose of this assignment is to design and implement a program to play a te
 version of the board game Mastermind. You are free to use whatever classes and methods from
 the Java 8 library you wish.
 The first thing you should do is read the Wikipedia article on the game of Mastermind.
-Here is a good example of what an interactive GUI for Mastermind would look like: https://www.w
-ebgamesonline.com/mastermind/
+Here is a good example of what an interactive GUI for Mastermind would look like: https://www.webgamesonline.com/mastermind/
 
 <br>
 
